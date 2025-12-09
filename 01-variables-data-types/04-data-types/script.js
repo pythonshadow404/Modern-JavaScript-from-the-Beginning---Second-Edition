@@ -18,8 +18,6 @@ const score = undefined;
 // Symbol
 const id = Symbol('id');
 
-// BigInt
-const n = 9007199254740991n;
 
 // Reference Types
 
