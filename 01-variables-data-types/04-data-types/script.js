@@ -15,8 +15,8 @@ const aptNumber = null;
 // let score;
 const score = undefined;
 
-// Symbol
-const id = Symbol('id');
+// // Symbol
+// const id = Symbol('id');
 
 
 // Reference Types
