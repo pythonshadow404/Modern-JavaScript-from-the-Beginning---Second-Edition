@@ -1,5 +1,3 @@
-// Log number
-console.log(100);
 
 // Log string
 console.log('Hello World');
