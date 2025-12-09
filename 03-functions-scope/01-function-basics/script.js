@@ -3,8 +3,7 @@ function sayHello() {
   console.log('Hello World');
 }
 
-// Invoke, execute or call a function
-sayHello();
+
 
 // Define a function with parameters
 function add(num1, num2) {
