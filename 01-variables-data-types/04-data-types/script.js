@@ -27,9 +27,9 @@ const person = {
   name: 'Brad',
 };
 
-function sayHello() {
-  console.log('Hello');
-}
+// function sayHello() {
+//   console.log('Hello');
+// }
 
 const output = sayHello;
 
